@@ -14,6 +14,8 @@ public class Main {
             String in = reader.nextLine();
 
 
+            
+
             if(in.equalsIgnoreCase("1")){
                 System.out.println("Once upon a time, a wife and husband took their little girl to their farm around 5 AM, but since she was too small to work, they took her into a shack and let her rest with \ntheir dog watching over her. ");
                 System.out.println("Enter 1 to Stay with dog: ");
